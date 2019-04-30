@@ -8,6 +8,7 @@ namespace fgal {
 namespace operations {
     float points_distance(types::Point2D, types::Point2D);
     types::Vector2D vectors_sum(types::Vector2D, types::Vector2D);
+    types::Vector2D vector_unit(types::Vector2D, types::Vector2D);
 }
 }
 
